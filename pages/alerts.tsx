@@ -1,0 +1,1 @@
+export default function Alerts() { return <div>FlowDesk - アラート一覧</div>; }

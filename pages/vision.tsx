@@ -1,0 +1,1 @@
+export default function VisionLive() { return <div>VisionLive - AI画像解析デモ</div>; }
